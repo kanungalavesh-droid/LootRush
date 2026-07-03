@@ -1,0 +1,6 @@
+{
+  "name": "LootRush",
+  "description": "Premium gaming rewards platform with high-octane animations and mystery chests.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
